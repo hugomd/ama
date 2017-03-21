@@ -2,11 +2,13 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-I get a lot of questions by email. This way anyone can read the answer!
+Ask me anything.
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
-
--
+A bit of context if you don't know _anything_ about me as it is:
+* I'm a 21 year old Software Engineer living in Melbourne, Australia.
+* I speak French and English.
+* I studied at Monash University.
+* I work at Localz.
 
 ### Guidelines
 
